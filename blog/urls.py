@@ -3611,6 +3611,4 @@ url(r'^WRE/$',views.WRE, name = 'WRE'),
 url(r'^WSR/$',views.WSR, name = 'WSR'),
 url(r'^XAN/$',views.XAN, name = 'XAN'),
 url(r'^XHR/$',views.XHR, name = 'XHR'),
-url(r'^YRIV/$',views.YRIV, name = 'YRIV'),
-
-    ]
+url(r'^YRIV/$',views.YRIV, name = 'YRIV'),  ]
